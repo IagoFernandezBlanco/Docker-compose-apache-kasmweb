@@ -42,3 +42,10 @@ networks:
 [Docker](https://www.docker.com/)  
 [Docker Hub-Apache](https://hub.docker.com/_/httpd)  
 [Docker Hub-Kasmweb](https://hub.docker.com/r/kasmweb/desktop)
+## Comandos
+<code>
+  docker pull kasmweb/desktop
+ </code
+ <code>
+  docker pull httpd
+ </code>
