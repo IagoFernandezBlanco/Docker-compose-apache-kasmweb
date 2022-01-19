@@ -50,4 +50,4 @@ docker pull kasmweb/chrome:1.10.0-rolling
 docker pull httpd:latest
 </code>
 
-![Docker](C:\Users\Usuario\Desktop\memes plantillas\t2s2hnz9e8k31)
+
