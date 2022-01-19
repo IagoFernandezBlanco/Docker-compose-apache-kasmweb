@@ -50,4 +50,4 @@ docker pull kasmweb/chrome:1.10.0-rolling
 docker pull httpd:latest
 </code>
 
-![Docker](https://r.search.yahoo.com/_ylt=AwrJ6tU1Luhh_XIAqVGV.Qt.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzUwYWZlMzBmZDg2NmUyZTVkYzZiNzNhNWUyNjJkMmM0BGdwb3MDMwRpdANiaW5n/RV=2/RE=1642634933/RO=11/RU=http%3a%2f%2fblog.xebia.fr%2f2016%2f04%2f08%2fdocker-pattern-conteneur-de-build%2f/RK=2/RS=urBF2JG_bUcw7TLwxwWvwO9DOeY-)
+![Docker](C:\Users\Usuario\Desktop\memes plantillas\t2s2hnz9e8k31)
