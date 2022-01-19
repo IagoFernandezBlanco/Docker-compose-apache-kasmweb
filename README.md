@@ -2,7 +2,7 @@
 
 ## Creación de tres contenedores docker
 
-<code>
+```
 docker-compose up
   version: "3.3"  
 services:  
@@ -37,4 +37,4 @@ volumes:
 networks:  
   br02:     
     external: true  
-</code> 
+```
