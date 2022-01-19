@@ -41,12 +41,13 @@ networks:
 ## Recursos de interes
 [Docker](https://www.docker.com/)  
 [Docker Hub-Apache](https://hub.docker.com/_/httpd)  
-[Docker Hub-Kasmweb](https://hub.docker.com/r/kasmweb/desktop)
+[Docker Hub-Kasmweb](https://hub.docker.com/r/kasmweb/desktop/tags)
 ## Comandos
 <code>
-  docker pull kasmweb/desktop<br>  
-  docker pull httpd
- </code>
- 
+docker pull kasmweb/chrome:1.10.0-rolling
+</code>
+<code>
+docker pull httpd:latest
+</code>
 
  
