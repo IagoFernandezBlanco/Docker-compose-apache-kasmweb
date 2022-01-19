@@ -45,7 +45,7 @@ networks:
 ## Comandos
 <code>
   docker pull kasmweb/desktop
- </code
+ </code>
  <code>
   docker pull httpd
  </code>
