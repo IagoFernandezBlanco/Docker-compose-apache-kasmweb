@@ -44,7 +44,7 @@ networks:
 [Docker Hub-Kasmweb](https://hub.docker.com/r/kasmweb/desktop)
 ## Comandos
 <code>
-  docker pull kasmweb/desktop  
+  docker pull kasmweb/desktop<br>  
   docker pull httpd
  </code>
  
